@@ -1,2 +1,2 @@
 # Hello. 
-This is my data analysis project for IMDB movies dataset
+This is my data analysis project for TMDB movies dataset
